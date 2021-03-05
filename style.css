@@ -4,7 +4,7 @@ body {
 }
 .butao {
     align-content: center;
-    margin-top: 150px;
+    margin-top: 60px;
     margin-left: 620px;
 
 }
@@ -20,5 +20,10 @@ body {
 .navbar-brand {
 
     margin-left: 620px;
+}
+
+.titulo {
+
+    color: white;
 }
 
